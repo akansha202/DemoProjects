@@ -1,0 +1,71 @@
+p {
+    color: rgb(238, 175, 217);
+    text-align: left;
+  }
+  body {
+    background-color: powderblue;
+  }
+  h1 {
+    background-color: green;
+  }
+  
+  .workexperience{
+    border-style:  solid;
+     border-color: rgb(114, 150, 153);
+    background-color: rgb(117, 40, 168);
+    padding-left: 0%;
+  }
+  .introduction{
+    border-style:  solid;
+     border-color: rgb(114, 150, 153);
+    background-color: rgb(161, 199, 22);
+  }
+  .educationalbackgound{
+    border-style:  solid;
+    border-color: rgb(114, 150, 153);
+    background-color: rgb(111, 161, 77); 
+    table, th, td {
+        border: 1px solid black;
+    }
+     
+    a:link {
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+   /*a:visited {
+      color: pink;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: red;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: underline;
+    }*/        
+  }
+  .intrest{
+    border-style:  solid;
+    border-color: rgb(114, 150, 153);
+    background-color: rgb(19, 130, 221);
+  }
+  .projects{
+    border-style:  solid;
+    border-color: rgb(114, 150, 153);
+    background-color: rgb(177, 35, 35);
+  }
+  
+  p {
+    background-color: rgb(206, 116, 7);
+        border-style:  solid;
+        border-color: rgb(114, 150, 153);
+        
+      }
